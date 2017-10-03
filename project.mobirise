@@ -25,7 +25,7 @@
     "versionFirst": "4.3.0",
     "uniqCompNum": 29,
     "versionPublish": "4.3.0",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x109-71-128x109-24-128x109.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
